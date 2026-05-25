@@ -1,6 +1,6 @@
 # European Cross-Commodity Risk Monitor
 
-**Vedang Abhyankar** | vedangabhyankar19@gmail.com
+**Vedang Abhyankar** | vedangabhyankar1@gmail.com
 
 An automated daily monitor that converts public gas, carbon and power fundamentals into a clear, repeatable trading narrative covering the full Gas + Carbon → Power Curve signal chain.
 
