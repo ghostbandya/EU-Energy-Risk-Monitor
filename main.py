@@ -198,7 +198,7 @@ def run():
     # Helper: derive signal labels from metric thresholds
     # These thresholds are rule-of-thumb trading signals, not hard limits
     lines = [
-        f"# Cobblestone Energy -- Daily Risk Monitor",
+        f"# EU Energy Daily Risk Monitor",
         f"**Date:** {TODAY_DISPLAY}  |  **Theme:** Gas + Carbon -> Power Curve",
         "",
         "---",
