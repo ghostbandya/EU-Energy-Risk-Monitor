@@ -1,7 +1,7 @@
 """
 llm_brief.py
 ------------
-AI/LLM component of the Cobblestone Energy daily brief pipeline.
+AI/LLM component of the Energy daily brief pipeline.
 
 Approach
 --------

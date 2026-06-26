@@ -1,6 +1,6 @@
 # European Cross-Commodity Risk Monitor
 
-**Vedang Abhyankar** | vedangabhyankar19@gmail.com
+**Vedang Abhyankar** | vedangabhyankar1@gmail.com
 
 An automated daily monitor that converts public gas, carbon and power fundamentals into a clear, repeatable trading narrative covering the full Gas + Carbon → Power Curve signal chain.
 
@@ -53,8 +53,8 @@ Running `python main.py` executes the full pipeline in one command:
 
 **1. Clone and create a virtual environment**
 ```bash
-git clone https://github.com/your-username/automatic-octo-computing-machine.git
-cd automatic-octo-computing-machine
+git clone https://github.com/your-username/EU-Energy-Risk-Monitor.git
+cd EU-Energy-Risk-Monitor
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 ```
@@ -78,7 +78,7 @@ python main.py
 ```
 
 Output brief: `output/daily_brief_YYYY-MM-DD.md`
-Desk note: open `output/cobblestone_desk_note.html` in any browser (→ Print to PDF)
+Desk note: open `output/Energy_desk_note.html` in any browser (→ Print to PDF)
 
 ---
 
